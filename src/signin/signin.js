@@ -1,1 +1,5 @@
-Console.log("Sign in page!")
+Console.log("Sign in page!");
+
+function(){
+	Console.log('Signin');
+}
